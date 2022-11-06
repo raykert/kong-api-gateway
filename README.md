@@ -1,2 +1,2 @@
 # kong-api-gateway
-Docker compose for implement Kong Api Gatewaey
+Docker compose for implement Kong Api Gateway
